@@ -1,0 +1,22 @@
+.txt {
+    padding: 0 50px;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1.6;
+    color: #C4C5C5;
+}
+
+.cardwrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6rem;
+}
+
+.buttonwrapper {
+    margin-top: 50px;
+}
+
+.invite {
+    color: #365b85;
+}
